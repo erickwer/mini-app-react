@@ -1,0 +1,27 @@
+main ul {
+  display: grid;
+  list-style: none;
+  grid-gap: 1em;
+}
+
+.photo-list{
+  padding: 2%;
+}
+
+@media (min-width: 576px) { 
+   main ul{
+     grid-template-columns: 1fr;
+   }
+ }
+
+ @media (min-width: 768px) { 
+  main ul{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) { 
+  main ul{
+    grid-template-columns: repeat(4,1fr);
+  }
+}
