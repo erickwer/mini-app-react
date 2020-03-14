@@ -7,6 +7,6 @@ APÓS O DOWNLOAD DO REPOSITÓRIO SIGA OS SEGUINTES PASSOS:
 
 2° - AGUARDE O FIM DA EXECUÇÃO DOS COMANDOS
 
-4° - EXECUTAR "docker run -it -p 3000:3000 mini-app-react"
+3° - EXECUTAR "docker run -it -p 3000:3000 mini-app-react"
 
-5° - ACESSAR NO NAVEGADOR "http://localhost:3000"
+4° - ACESSAR NO NAVEGADOR "http://localhost:3000"
