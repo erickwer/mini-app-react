@@ -3,7 +3,7 @@
 APÓS O DOWNLOAD DO REPOSITÓRIO SIGA OS SEGUINTES PASSOS:
 (Considerando que o Docker já esteja instalado)
 
-1° - EXECUTAR O SEGUINTE COMANDO "docker build -t mini-app-react ."
+1° - EXECUTAR O SEGUINTE COMANDO NO TERMINAL DENTRO DO DIRETÓRIO RAIZ DO PROJETO "docker build -t mini-app-react ."
 
 2° - AGUARDE O FIM DA EXECUÇÃO DOS COMANDOS
 
